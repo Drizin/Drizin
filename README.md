@@ -4,7 +4,7 @@
 - :sunny: - Currently living in sunny Fort Lauderdale :palm_tree: :sunny: :palm_tree: :sunny: :palm_tree:
 - :thought_balloon: - [My Blog](http://drizin.io/) where I write about random coding stuff
 - :coffee: - [My LinkedIn profile](https://www.linkedin.com/in/ricardodrizin/)
-- :email: - How to reach me: https://drizin.io/pages/Contact/
+- :email: - How to [reach me](https://drizin.io/pages/Contact/)
 
 Some recent projects:
 - :star: - [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder): Dapper Query Builder using String Interpolation and Fluent API
