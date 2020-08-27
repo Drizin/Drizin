@@ -9,6 +9,7 @@
 Some recent opensource projects:
 - :star: - [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder): Dapper Query Builder using String Interpolation and Fluent API
 - :star: - [CodegenCS](https://github.com/Drizin/CodegenCS): C# Library for Code Generation (check-out this [POCO generator](https://github.com/Drizin/CodegenCS/tree/master/src/CodegenCS.POCO))
+- :star: - [NsisMultiUser](https://github.com/Drizin/NsisMultiUser): [NSIS](https://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System) plugin that allows to choose between "per-user" installations (no admin required) and "per-machine" installations (asks elevation only when necessary)
 - :eyes: - What's the next big thing??
 
 Some non-opensource projects which I built and still maintain:
