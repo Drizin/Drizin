@@ -7,8 +7,9 @@
 :email: - How to [reach me](https://drizin.io/pages/Contact/)  
 
 Some recent opensource projects:
-- :star: - [Harbin.DataAccess](https://github.com/Drizin/Harbin/tree/main/src/Harbin.DataAccess): library which implements Generic Repository Pattern on top of Dapper / Dapper FastCRUD / DapperQueryBuilder
 - :star: - [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder): Dapper Query Builder using String Interpolation and Fluent API. Dapper is a popular micro ORM for .NET framework
+- :star: - [InterpolatedLogging](https://github.com/Drizin/InterpolatedLogging): Extensions to Logging Libraries (Serilog, NLog, Microsoft ILogger) to write Log Messages using Interpolated Strings without losing Structured Property Names
+- :star: - [Harbin.DataAccess](https://github.com/Drizin/Harbin/tree/main/src/Harbin.DataAccess): library which implements Generic Repository Pattern on top of Dapper / Dapper FastCRUD / DapperQueryBuilder
 - :star: - [CodegenCS](https://github.com/Drizin/CodegenCS): C# Library for Code Generation (check-out this [POCO generator](https://github.com/Drizin/CodegenCS/tree/master/src/CodegenCS.POCO))
 - :star: - [NsisMultiUser](https://github.com/Drizin/NsisMultiUser): [NSIS](https://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System) plugin that allows to choose between "per-user" installations (no admin required) and "per-machine" installations (asks elevation only when necessary)
 - :eyes: - What's the next big thing??
