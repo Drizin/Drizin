@@ -18,7 +18,7 @@ Some non-opensource projects which I built and still maintain:
 - :tv: - [TV Map](https://www.tvmap.com.br/): TV Listings for [Brazil](https://www.tvmap.com.br/) and [Portugal](https://www.tvmap.pt/)  
   Social TV platform (launched in 2012) for users to share what they are watching, see what others are watching, and connect to people who are watching the same TV shows.  
   It’s based on crawler robots, and has more than **3 million** monthly page views.
-- :star: - Migration tool to export source code history from Microsoft Visual SourceSafe to [Subversion](https://www.abstrakti.com/Products/Krepost) and [Git](https://www.abstrakti.com/Products/Castellum).
+- :star: - [Krepost](https://www.abstrakti.com/Products/Krepost) and [Castellum](https://www.abstrakti.com/Products/Castellum) are Migration tools to export source code history from Microsoft Visual SourceSafe to Subversion or Git respectively.
 - :star: - [Servantt](https://servantt.com/) is a tool to reverse-engineer your SQL Server objects into scripts, compare database to the scripts, update the scripts or apply script changes back to the SQL server.
 - :smiley_cat: - [MemeLab](https://meme-lab.com/) - work in progress - Meme Editor
 - :eyes: - What's the next great idea??
