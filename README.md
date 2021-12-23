@@ -3,8 +3,10 @@
 :computer: Sr. Software Engineer, mostly working with Microsoft stack (.NET, C#, SQL Server, Azure, etc).  
 :sunny: - Currently living in sunny Fort Lauderdale :palm_tree: :sunny: :palm_tree: :sunny: :palm_tree:  
 :thought_balloon: - [My Blog](https://rdrizin.com/) where I write about random coding stuff  
-:coffee: - [My LinkedIn profile](https://www.linkedin.com/in/RDrizin/)  
+:coffee: - [My LinkedIn profile](https://www.linkedin.com/in/rdrizin/)  
 :email: - How to [reach me](https://rdrizin.com/pages/Contact/)  
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Drizin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Some recent opensource projects:
 - :star: - [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder): Dapper Query Builder using String Interpolation and Fluent API. Dapper is a popular micro ORM for .NET framework
@@ -22,7 +24,6 @@ Some non-opensource projects which I built and still maintain:
 - :star: - [Servantt](https://servantt.com/) is a tool to reverse-engineer your SQL Server objects into scripts, compare database to the scripts, update the scripts or apply script changes back to the SQL server.
 - :smiley_cat: - [MemeLab](https://meme-lab.com/) - work in progress - Meme Editor
 - :eyes: - What's the next great idea??
-
 
 <!--
 **Drizin/Drizin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
