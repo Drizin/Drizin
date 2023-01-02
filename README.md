@@ -1,22 +1,24 @@
+_"You can do anything, but you can't do everything"_
+
 ### Hi there :wave: :wave: :wave: :sunglasses:	
 
-:computer: Sr. Software Engineer, mostly working with Microsoft stack (.NET, C#, SQL Server, Azure, etc).  
-:sunny: - Currently living in sunny Fort Lauderdale :palm_tree: :sunny: :palm_tree: :sunny: :palm_tree:  
+:computer: Staff Software Engineer (20+ yoe), mostly working with Microsoft stack (.NET, C#, SQL Server, Azure, etc).  
+:sunny: - Currently living in sunny Fort Lauderdale (FL) :palm_tree: :sunny: :palm_tree: :sunny: :palm_tree:  
 :thought_balloon: - [My Blog](https://rdrizin.com/) where I write about random coding stuff  
-:coffee: - [My LinkedIn profile](https://www.linkedin.com/in/rdrizin/)  
+:coffee: - [My LinkedIn profile](https://www.linkedin.com/in/RickDrizin/)  
 :email: - How to [reach me](https://rdrizin.com/pages/Contact/)  
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Drizin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Some recent opensource projects:
-- :star: - [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder): Dapper Query Builder using String Interpolation and Fluent API. Dapper is a popular micro ORM for .NET framework
+- :star: - [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder): Dapper Query Builder using String Interpolation and Fluent API. [Dapper](https://github.com/DapperLib/Dapper) is a popular micro ORM for .NET framework
+- :star: - [CodegenCS](https://github.com/CodegenCS/CodegenCS): C# Toolkit for Code Generation. Check-out these samples for [generating POCOs/DAL](https://github.com/CodegenCS/Templates/tree/main/DatabaseSchema) or for [generating NSWag Client](https://github.com/CodegenCS/Templates/tree/main/OpenAPI)
 - :star: - [InterpolatedLogging](https://github.com/Drizin/InterpolatedLogging): Extensions to Logging Libraries (Serilog, NLog, Microsoft ILogger) to write Log Messages using Interpolated Strings without losing Structured Property Names
 - :star: - [Harbin.DataAccess](https://github.com/Drizin/Harbin/tree/main/src/Harbin.DataAccess.DapperSimpleCRUD): library which implements Generic Repository Pattern on top of Dapper / Dapper FastCRUD / DapperQueryBuilder
-- :star: - [CodegenCS](https://github.com/Drizin/CodegenCS): C# Library for Code Generation (check-out this [POCO generator](https://github.com/Drizin/CodegenCS/tree/master/src/CodegenCS.POCO))
 - :star: - [NsisMultiUser](https://github.com/Drizin/NsisMultiUser): [NSIS](https://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System) plugin that allows to choose between "per-user" installations (no admin required) and "per-machine" installations (asks elevation only when necessary)
 - :eyes: - What's the next big thing??
 
-Some non-opensource projects which I built and still maintain:
+Some non-opensource projects which I've built and still maintain:
 - :tv: - [TV Map](https://www.tvmap.com.br/): TV Listings for [Brazil](https://www.tvmap.com.br/) and [Portugal](https://www.tvmap.pt/)  
   Social TV platform (launched in 2012) for users to share what they are watching, see what others are watching, and connect to people who are watching the same TV shows.  
   It’s based on crawler robots, and has more than **3 million** monthly page views.
