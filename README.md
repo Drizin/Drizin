@@ -2,8 +2,8 @@ _"You can do anything, but you can't do everything"_
 
 ### Hi there :wave: :wave: :wave: :sunglasses:	
 
-:computer: Staff Software Engineer (20+ yoe), mostly working with Microsoft stack (.NET, C#, SQL Server, Azure, etc).  
-:sunny: - Currently living in sunny Fort Lauderdale (FL) :palm_tree: :sunny: :palm_tree: :sunny: :palm_tree:  
+:computer: Principal Software Engineer (20+ yoe), mostly working with Microsoft stack (.NET, C#, SQL Server, Azure, etc).  
+:sunny: - Currently living in sunny South Florida :palm_tree: :sunny: :palm_tree: :sunny: :palm_tree:  
 :thought_balloon: - [My Blog](https://rdrizin.com/) where I write about random coding stuff  
 :coffee: - [My LinkedIn profile](https://www.linkedin.com/in/RickDrizin/)  
 :email: - How to [reach me](https://rdrizin.com/pages/Contact/)  
